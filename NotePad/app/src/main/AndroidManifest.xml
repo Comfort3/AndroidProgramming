@@ -10,11 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NotePad">
         <activity
-            android:name=".CreateNotesActivity"
+            android:name=".activities.CreateNotesActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden"/>
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.MainActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden">
             <intent-filter>

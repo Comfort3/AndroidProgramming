@@ -1,10 +1,12 @@
-package com.balbrilabs.notepad;
+package com.balbrilabs.notepad.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.balbrilabs.notepad.R;
 
 public class CreateNotesActivity extends AppCompatActivity {
 
